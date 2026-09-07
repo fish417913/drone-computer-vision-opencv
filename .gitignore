@@ -1,0 +1,20 @@
+# Downloaded datasets and generated media
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Local data directories
+data/
+datasets/
+
+# Python cache and environment files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
